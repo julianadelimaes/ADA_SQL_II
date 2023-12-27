@@ -11,3 +11,5 @@ Projeto para esboçar a relação de entidades e atributos de bancos de dados co
 
 <img width="734" alt="image" src="https://github.com/julianadelimaes/ADA_SQL_II/assets/111389939/81e7e932-96ff-4402-bc6b-f24e1ff993b1">
 
+https://lucid.app/lucidchart/141127f6-64fb-4d63-ae69-1104167551bb/edit?viewport_loc=-472%2C553%2C2048%2C894%2C0_0&invitationId=inv_91be67b9-a6c7-4bdf-a4fb-2917d9e26a44
+
