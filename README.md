@@ -19,3 +19,15 @@ https://lucid.app/lucidchart/141127f6-64fb-4d63-ae69-1104167551bb/edit?viewport_
 
 <img width="960" alt="image" src="https://github.com/julianadelimaes/ADA_SQL_II/assets/111389939/56dde1aa-86fc-464e-971e-3fc005bda01b">
 
+<img width="960" alt="image" src="https://github.com/julianadelimaes/ADA_SQL_II/assets/111389939/e3237831-599d-49b2-a994-80c426280095">
+
+<img width="960" alt="image" src="https://github.com/julianadelimaes/ADA_SQL_II/assets/111389939/06ad96ac-8e60-4c1b-9299-b03400801368">
+
+<img width="960" alt="image" src="https://github.com/julianadelimaes/ADA_SQL_II/assets/111389939/3970322a-94f4-461f-9b6d-1c640d806bec">
+
+<img width="960" alt="image" src="https://github.com/julianadelimaes/ADA_SQL_II/assets/111389939/44587c9d-3a57-477e-b9ec-4d453a548947">
+
+<img width="960" alt="image" src="https://github.com/julianadelimaes/ADA_SQL_II/assets/111389939/e14a57c2-e231-402f-9249-c5ac35a712e3">
+
+<img width="960" alt="image" src="https://github.com/julianadelimaes/ADA_SQL_II/assets/111389939/a1b6f82f-2cdd-406b-848e-a8099f995e17">
+
